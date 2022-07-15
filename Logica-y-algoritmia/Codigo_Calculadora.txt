@@ -1,0 +1,21 @@
+//Codigo para crear una calculadora
+
+var numero1 = parseInt( prompt("ingrese un numero"));
+var operacion = prompt("ingrese la operacion que quiere realizar: +;-;*;/");
+var numero2 = parseInt( prompt("ingrese un numero"));
+
+
+if( operacion == "+"){
+	alert(numero1 + numero2)
+}else {
+ if(operacion == "-"){
+ alert(numero1 - numero2);
+ } else {
+	if(operacion =="*"){
+  alert(numero1 * numero2);
+  }else{
+  if(operacion == "/")
+  alert(numero1 / numero2);
+  }
+}
+}
