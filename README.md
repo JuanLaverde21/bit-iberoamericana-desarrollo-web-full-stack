@@ -11,4 +11,4 @@ Cada tema visto tiene asignado una carpeta en la cual estan los ejemplos y todas
 * Pseint
 
 
-_Creando por Juan Camilo Laverde Trujillo_
+_Creado por Juan Camilo Laverde Trujillo_
