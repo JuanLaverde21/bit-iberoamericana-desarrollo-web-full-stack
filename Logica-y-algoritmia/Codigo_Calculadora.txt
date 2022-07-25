@@ -1,4 +1,4 @@
-//Codigo para crear una calculadora
+//Codigo para crear una calculadoras
 
 var numero1 = parseInt( prompt("ingrese un numero"));
 var operacion = prompt("ingrese la operacion que quiere realizar: +;-;*;/");
@@ -14,8 +14,11 @@ if( operacion == "+"){
 	if(operacion =="*"){
   alert(numero1 * numero2);
   }else{
-  if(operacion == "/")
+  if(operacion == "/" && numero2 != 0){
   alert(numero1 / numero2);
-  }
-}
-}
+  }else{
+  alert("No se puede dividir por 0");
+  		}
+		}
+	}
+}  

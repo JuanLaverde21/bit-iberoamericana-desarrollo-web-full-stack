@@ -1,0 +1,25 @@
+//Codigo calculadora usando funcion Switch
+
+var numero1 = parseInt( prompt("ingrese un numero"));
+var operacion = prompt("ingrese la operacion que quiere realizar: +;-;*;/");
+var numero2 = parseInt( prompt("ingrese un numero"));
+
+
+switch (operacion){
+		case "+":
+    alert(numero1 + numero2);
+    break;
+    case "-":
+    alert(numero1 - numero2);
+    break;
+    case "*":
+    alert(numero1 * numero2);
+    break;
+    case "/":
+    if(numero2 != 0){
+    alert(numero1 / numero2);
+    }else{
+    alert("No se puede dividir por 0")
+    }
+
+}

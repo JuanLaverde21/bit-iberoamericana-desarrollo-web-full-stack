@@ -1,0 +1,291 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+"Ingrese dia de nacimiento"
+5
+1
+3
+Dia
+4
+1
+211
+"Ingrese la siguiente opcion segun el mes que haya nacido: enero = 1; febrero = 2; marzo = 3; abril = 4; mayo =  5; junio = 6; julio = 7; agosto = 8; septiembre = 9; octubre = 10; noviembre = 11; diciembre = 12"
+5
+1
+3
+Mes
+7
+0
+1
+20
+Mes = 1 and dia <=19
+7
+0
+1
+21
+Mes = 1 and dia >= 20
+7
+0
+1
+21
+Mes = 2 and dia <= 18
+7
+0
+1
+21
+Mes = 2 and dia >= 19
+7
+0
+1
+21
+Mes = 3 and dia <= 20
+7
+0
+1
+21
+Mes = 3 and dia >= 21
+7
+0
+1
+21
+Mes = 4 and dia <= 19
+7
+0
+1
+21
+Mes = 4 and dia >= 20
+7
+0
+1
+21
+Mes = 5 and dia <= 20
+7
+0
+1
+21
+Mes = 5 and dia >= 21
+7
+0
+1
+21
+Mes = 6 and dia <= 20
+7
+0
+1
+21
+Mes = 6 and dia >= 21
+7
+0
+1
+21
+Mes = 7 and dia <= 22
+7
+0
+1
+21
+Mes = 7 and dia >= 23
+7
+0
+1
+21
+Mes = 8 and dia <= 22
+7
+0
+1
+21
+Mes = 8 and dia >= 23
+7
+0
+1
+21
+Mes = 9 and dia <= 22
+7
+0
+1
+21
+Mes = 9 and dia >= 23
+7
+0
+1
+22
+Mes = 10 and dia <= 22
+7
+0
+1
+22
+Mes = 10 and dia >= 23
+7
+0
+1
+22
+Mes = 11 and dia <= 21
+7
+0
+1
+22
+Mes = 11 and dia >= 22
+7
+0
+1
+22
+Mes = 12 and dia <= 21
+7
+0
+1
+22
+Mes = 12 and dia >= 22
+4
+1
+22
+"Digita su fecha bien"
+13
+4
+1
+25
+"Su signo es Capricornio"
+13
+13
+4
+1
+23
+"Su signo es Sagitario"
+13
+13
+4
+1
+23
+"Su signo es Sagitario"
+13
+13
+4
+1
+22
+"Su signo es Escorpio"
+13
+13
+4
+1
+22
+"Su signo es Escorpio"
+13
+13
+4
+1
+19
+"Su signo es Libra"
+13
+13
+4
+1
+19
+"Su signo es Libra"
+13
+13
+4
+1
+19
+"Su signo es Virgo"
+13
+13
+4
+1
+19
+"Su signo es Virgo"
+13
+13
+4
+1
+17
+"Su signo es Leo"
+13
+13
+4
+1
+17
+"Su signo es Leo"
+13
+13
+4
+1
+20
+"Su signo es Cancer"
+13
+13
+4
+1
+20
+"Su signo es Cancer"
+13
+13
+4
+1
+21
+"Su signo es Geminis"
+13
+13
+4
+1
+21
+"Su signo es Geminis"
+13
+13
+4
+1
+19
+"Su signo es Tauro"
+13
+13
+4
+1
+19
+"Su signo es Tauro"
+13
+13
+4
+1
+19
+"Su signo es Aries"
+13
+13
+4
+1
+19
+"Su signo es Aries"
+13
+13
+4
+1
+20
+"Su signo es Piscis"
+13
+13
+4
+1
+20
+"Su signo es Piscis"
+13
+13
+4
+1
+21
+"Su signo es Acuario"
+13
+13
+4
+1
+21
+"Su signo es Acuario"
+13
+13
+4
+1
+25
+"Su signo es Capricornio"
+13
+1
